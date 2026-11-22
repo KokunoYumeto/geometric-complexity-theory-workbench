@@ -1,0 +1,7 @@
+key	citation	address	used	how_read
+GCT-VI	K. Mulmuley, Geometric complexity theory VI, v4	https://arxiv.org/abs/0704.0229v4	the hypotheses and definitions	read in the TeX source
+BIP2019	P. Bürgisser, C. Ikenmeyer, G. Panova, No occurrence obstructions in geometric complexity theory, J. Amer. Math. Soc. 32 (2019)	https://arxiv.org/abs/1604.06431	the main theorem	statement read in the TeX source; proof not re-proved
+Kumar2013	S. Kumar, Geometry of orbits of permanents and determinants, Comment. Math. Helv. 88 (2013)	https://arxiv.org/abs/1007.1695	Corollary 8.3, compared	read at the source
+BOR	E. Briand, R. Orellana, M. Rosas, Reduced Kronecker coefficients and counter-examples to Mulmuley's strong saturation conjecture SH	https://arxiv.org/abs/0810.3163	context	example recomputed
+KM	T. Kahle, M. Michałek, Obstructions to combinatorial formulas for plethysm	https://arxiv.org/abs/1507.07131	context	statement read at the source
+DIP	J. Dörfler, C. Ikenmeyer, G. Panova, On geometric complexity theory: multiplicity obstructions are stronger than occurrence obstructions	https://arxiv.org/abs/1901.04576	context	title and statement

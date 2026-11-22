@@ -1,0 +1,7 @@
+tag	date	who	effort	type	outcome	record
+WB-0002.001	2026-11-22	Claude Opus 5.5	high	independent re-proof	proved for every m > n >= 2	checks/INDEPENDENT_CHECK.md
+WB-0002.002	2026-11-22	Claude Opus 5.5	high	independent re-proof	proved for the hypothesis as written	checks/INDEPENDENT_CHECK.md
+WB-0002.003	2026-11-22	Claude Opus 5.5	high	independent re-proof	proved, given the published theorem; a wrong citation of the first proof corrected	checks/INDEPENDENT_CHECK.md
+WB-0002.001	2026-11-22	Claude Opus 5.5	high	computation or formal certificate	degree-one inequality, n = 2..8, m-n = 1..39	checks/check.py
+WB-0002.002	2026-11-22	Claude Opus 5.5	high	computation or formal certificate	small cases of the Kronecker multiplicities against the partition count	checks/check.py
+WB-0002.003	2026-11-22	Claude Opus 5.5	high	computation or formal certificate	the inequalities of the sharper range, n = 5..2000	checks/check.py

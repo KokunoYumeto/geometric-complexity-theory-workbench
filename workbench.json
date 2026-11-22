@@ -1,0 +1,9 @@
+{
+ "format": 1,
+ "name": "geometric-complexity-theory-workbench",
+ "title": "Geometric complexity theory",
+ "scope": "Permanent against determinant, obstructions, plethysm and Kronecker coefficients, border rank, nonstandard quantum groups and their canonical bases.",
+ "msc": "68Q17; 20G05; 05E10",
+ "index": "https://github.com/KokunoYumeto/mathematics-workbenches",
+ "licence": "CC0-1.0"
+}

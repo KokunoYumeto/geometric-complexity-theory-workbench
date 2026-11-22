@@ -1,0 +1,33 @@
+lambda=1(2m,2m) m=3 1 1 1 True
+lambda=1(2m,2m) m=4 1 1 1 True
+lambda=1(2m,2m) m=5 1 1 1 True
+lambda=1(2m,2m) m=6 2 2 2 True
+lambda=1(2m,2m) m=7 1 1 1 True
+lambda=1(2m,2m) m=8 2 2 2 True
+lambda=2(2m,2m) m=3 1 1 1 True
+lambda=2(2m,2m) m=4 2 2 2 True
+lambda=1(m-1,1) m=3 0 0 0 True
+lambda=2(m-1,1) m=3 1 1 1 True
+lambda=3(m-1,1) m=3 1 1 1 True
+lambda=4(m-1,1) m=3 1 1 1 True
+lambda=5(m-1,1) m=3 1 1 1 True
+lambda=6(m-1,1) m=3 2 2 2 True
+lambda=1(m-1,1) m=4 0 0 0 True
+lambda=2(m-1,1) m=4 1 1 1 True
+lambda=3(m-1,1) m=4 1 1 1 True
+lambda=4(m-1,1) m=4 2 2 2 True
+lambda=5(m-1,1) m=4 1 1 1 True
+lambda=6(m-1,1) m=4 3 3 3 True
+lambda=1(m-1,1) m=5 0 0 0 True
+lambda=2(m-1,1) m=5 1 1 1 True
+lambda=3(m-1,1) m=5 1 1 1 True
+lambda=4(m-1,1) m=5 2 2 2 True
+lambda=5(m-1,1) m=5 2 2 2 True
+lambda=6(m-1,1) m=5 3 3 3 True
+lambda=1(m-1,1) m=6 0 0 0 True
+lambda=2(m-1,1) m=6 1 1 1 True
+lambda=3(m-1,1) m=6 1 1 1 True
+lambda=4(m-1,1) m=6 2 2 2 True
+lambda=5(m-1,1) m=6 2 2 2 True
+transfer inequalities n=5..2000 True
+degree-one map not surjective True
