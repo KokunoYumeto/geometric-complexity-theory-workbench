@@ -11,6 +11,7 @@ obstructions, plethysm and Kronecker coefficients, and border rank.
 | Number | Work | State |
 |---|---|---|
 | [WB-0002](https://github.com/KokunoYumeto/mathematics-workbenches/blob/main/works/WB-0002.md) | [The hypotheses of Mulmuley's flip for permanent and determinant, after Kumar and Bürgisser–Ikenmeyer–Panova](work/WB-0002/v0.1/NOTE.md) | research note with proofs, 22 November 2026; paper in preparation |
+| [WB-0015](https://github.com/KokunoYumeto/mathematics-workbenches/blob/main/works/WB-0015.md) | [Counterexamples to the positivity and saturation hypotheses of GCT VI](https://hexagonmath.org/2611.01046) | deposited, version 1 | [`work/WB-0015/v1`](work/WB-0015/v1/README.md) |
 
 The note shows that RH, the first hypothesis of GCT VI's theorem on explicit obstructions, is false for every
 m > n ≥ 2; that PH1 on the determinant's side is false as stated; and that OH contradicts PH1's counting clauses for

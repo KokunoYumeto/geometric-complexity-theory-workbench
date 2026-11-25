@@ -1,0 +1,54 @@
+== Section 7: the multiset S_n, the product formula and the dominant pair
+[ok] |S_n| = binom(n,3) and no element divisible by M, n = 4..13
+[ok] character of Sym^3 V - V(x)V^* on <D> equals the multiset S_n mod M, n = 4..10
+[ok] C_4(zeta): product formula against the residue of (1+t^25)/((1-t^2)(1-t^4)(1-t^6)(1-t^8)(1-t^10)): 0.12500+0.30178i
+   n  log2|Z_n|   first line of (24)   n^4/24-2n^3    Q_n = E_n/|Z_n|   log2 delta_n   bound on log2 delta_n
+   4      -5.89           -15            -117.3       4.828e+00          1.27          1.00   max at a = [1, 7] (b_n = 3)
+[ok]   (24) at n = 4
+   5      -8.86           -33            -224.0       2.427e+01          2.33          9.00   max at a = [3, 13] (b_n = 11)
+[ok]   (24) at n = 5
+[ok]   delta_n <= 2^(bound) at n = 5
+   6      -9.89           -60            -378.0       2.531e+01          0.00         20.00   max at a = [1, 7, 9, 15, 17, 23, 25, 31] (b_n = 11)
+[ok]   (24) at n = 6
+[ok]   delta_n <= 2^(bound) at n = 6
+   7      -6.09           -96            -586.0       3.438e+00         -4.24         33.00   max at a = [21, 43] (b_n = 43)
+[ok]   (24) at n = 7
+[ok]   delta_n <= 2^(bound) at n = 7
+   8       6.49          -140            -853.3       9.424e-02        -13.06         47.00   max at a = [43, 85] (b_n = 43)
+[ok]   (24) at n = 8
+[ok]   delta_n <= 2^(bound) at n = 8
+   9      32.77          -190           -1184.6       9.663e-04        -26.41         61.00   max at a = [85, 171] (b_n = 171)
+[ok]   (24) at n = 9
+[ok]   delta_n <= 2^(bound) at n = 9
+  10      78.71          -243           -1583.3       1.195e-06        -45.94         74.00   max at a = [171, 341] (b_n = 171)
+[ok]   (24) at n = 10
+[ok]   delta_n <= 2^(bound) at n = 10
+  11     151.22          -295           -2052.0       1.060e-10        -72.26         85.00   max at a = [341, 683] (b_n = 683)
+[ok]   (24) at n = 11
+[ok]   delta_n <= 2^(bound) at n = 11
+  12     258.24          -341           -2592.0       4.628e-16       -106.59         93.00   max at a = [683, 1365] (b_n = 683)
+[ok]   (24) at n = 12
+[ok]   delta_n <= 2^(bound) at n = 12
+  13     408.71          -375           -3204.0       6.524e-23       -149.81         97.00   max at a = [1365, 2731] (b_n = 2731)
+[ok]   (24) at n = 13
+[ok]   delta_n <= 2^(bound) at n = 13
+  14     612.56          -390           -3887.3       1.997e-31       -202.99         96.00   max at a = [2731, 5461] (b_n = 2731)
+[ok]   (24) at n = 14
+[ok]   delta_n <= 2^(bound) at n = 14
+[ok] recursion P_n(a) = J_n(a) P_(n-1)(-a mod M_(n-1)) for every odd a, n = 5..11
+[ok] first line of (24) >= n^4/24 - 2n^3 (4 <= n < 200); delta exponent <= -n^3/12 (48 <= n < 200)
+[ok] thresholds of Thm 7.9: 48/delta^3, 16/delta, 2688/delta^3 <= N = 10^20: 48/d^3 = 4.80e+16, 2688/d^3 = 2.69e+18
+[ok] log2(3)/12 > 1/8 and 2502/10^5 < 1/12
+[ok] 3n^4/80 + 2n^3/5 < n^4/24 - 2n^3 - 1 and m <= n^3/5 at n = 1024, 2000, 10^4, 10^6
+[ok] n - 1 + (n-3) binom(n,3) + 2n^3 <= n^4 for 3 <= n < 400
+== Section 7.1 and Prop 7.1 at n = 4: Fourier normalization and the wave identity, exactly
+[ok] q_r(X) - q_(r+60)(X) = 2 W_4(r) for all 120 residues, with A = C/M from the product formula
+== Fixed weights (Thm 5.3 and Prop 6.1(4)) and the grading stabilizer (Prop 6.1(3))
+[ok] dim of the g-fixed part of W + S_(2,1)W is n; fixed cubic monomials are n; simple spectrum; n = 2..15
+[ok] S odd, S = n mod 3, |ker det| = nu, grading stabilizer of order M; n = 2..59
+== Kempf-Ness data (Thm 5.3 and Prop 6.1(1))
+[ok] positive coefficients, sum r_i a_i = (1,...,1), no two support weights differ by a root; n = 2..39
+== Torus examples (Props 8.1 and 8.2), from the definitions
+[ok] f_N(n) = 1 if N | n, else 0; N = 2..12, n < 150
+[ok] g_N: series 1/((1-T^2)(1-T^N)) and p = s = N - 2; odd N = 3..19
+ALL AS CLAIMED

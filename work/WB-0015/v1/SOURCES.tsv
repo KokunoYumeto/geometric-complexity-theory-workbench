@@ -1,0 +1,12 @@
+key	citation	address	used	how_read
+BOR	E. Briand, R. Orellana, M. Rosas, Reduced Kronecker coefficients and counter-examples to Mulmuley's strong saturation conjecture SH, with an appendix by K. Mulmuley, Comput. Complexity 18 (2009); arXiv:0810.3163v3 (14 May 2009). Page numbers refer to the arXiv version.	https://arxiv.org/abs/0810.3163v3	cited in the paper	see PROVENANCE.md, Citations
+FI	N. Fischer, C. Ikenmeyer, The computational complexity of plethysm coefficients, arXiv:2002.00788v1 (3 February 2020).	https://arxiv.org/abs/2002.00788v1	cited in the paper	see PROVENANCE.md, Citations
+ICERM	J. A. Grochow, K. Rusek, Report on ``Mathematical aspects of P vs.\ NP and its variants'', workshop at ICERM, 1--5 August 2011 (organizers S. Basu, J. M. Landsberg, J. M. Rojas), arXiv:1203.2888v2 (21 March 2012).	https://arxiv.org/abs/1203.2888v2	cited in the paper	see PROVENANCE.md, Citations
+IMW	C. Ikenmeyer, K. D. Mulmuley, M. Walter, On vanishing of Kronecker coefficients, arXiv:1507.02955v2 (21 July 2017).	https://arxiv.org/abs/1507.02955v2	cited in the paper	see PROVENANCE.md, Citations
+IP	C. Ikenmeyer, G. Panova, Rectangular Kronecker coefficients and plethysms in geometric complexity theory, arXiv:1512.03798v2 (11 August 2017).	https://arxiv.org/abs/1512.03798v2	cited in the paper	see PROVENANCE.md, Citations
+KM	T. Kahle, M. Micha\l{}ek, Obstructions to combinatorial formulas for plethysm, Electron. J. Combin. 25(1) (2018), \#P1.41; arXiv:1507.07131v3.	https://arxiv.org/abs/1507.07131v3	cited in the paper	see PROVENANCE.md, Citations
+Losev	I. Losev, The Kempf--Ness theorem and invariant theory, arXiv:math/0605756.	https://arxiv.org/abs/math/0605756	cited in the paper	see PROVENANCE.md, Citations
+Luna	D. Luna, Slices \'etales, Bull. Soc. Math. France, M\'emoire 33 (1973), 81--105.		cited in the paper	see PROVENANCE.md, Citations
+Macdonald	I. G. Macdonald, Symmetric functions and Hall polynomials, 2nd ed., Oxford University Press, 1995.		cited in the paper	see PROVENANCE.md, Citations
+GCT6	K. D. Mulmuley, Geometric complexity theory VI: the flip via saturated and positive integer programming in representation theory and algebraic geometry, arXiv:0704.0229v4 (22 January 2009). Page numbers refer to this version.	https://arxiv.org/abs/0704.0229v4	cited in the paper	see PROVENANCE.md, Citations
+Stacks	The Stacks Project Authors, The Stacks Project, https://stacks.math.columbia.edu, Section 15.29 (Tag 0621) and Lemma 15.31.2 (Tag 062F).	https://stacks.math.columbia.edu	cited in the paper	see PROVENANCE.md, Citations

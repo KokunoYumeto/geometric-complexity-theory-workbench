@@ -1,0 +1,7 @@
+n = 2: rank of X -> X.z_n is 4 of 4; g fixes z_n: True; Lie words of squared norm 6: True; as claimed
+n = 3: rank of X -> X.z_n is 9 of 9; g fixes z_n: True; Lie words of squared norm 6: True; as claimed
+n = 4: rank of X -> X.z_n is 16 of 16; g fixes z_n: True; Lie words of squared norm 6: True; as claimed
+n = 5: rank of X -> X.z_n is 25 of 25; g fixes z_n: True; Lie words of squared norm 6: True; as claimed
+n = 6: rank of X -> X.z_n is 36 of 36; g fixes z_n: True; Lie words of squared norm 6: True; as claimed
+n = 7: rank of X -> X.z_n is 49 of 49; g fixes z_n: True; Lie words of squared norm 6: True; as claimed
+ALL AS CLAIMED
